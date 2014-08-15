@@ -1,0 +1,10 @@
+Package: lsb-release-udeb
+Source: base-files
+Version: 6.5zevenos12
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 13
+Section: debian-installer
+Priority: extra
+Description: LSB release information
+Original-Maintainer: Santiago Vila <sanvila@debian.org>

@@ -1,0 +1,2 @@
+lsb-release-udeb_6.5zevenos12_all.udeb debian-installer extra
+base-files_6.5zevenos12_i386.deb admin required
